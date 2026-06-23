@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<groupInfo>
+	<groupMain pointH="" pointV="" />
+	<group key="1" on="B" off="b" name="사무실" useYn="Y" bgImg="" />
+	<group key="2" on="C" off="c" name="공장" useYn="Y" bgImg="" />
+	<group key="3" on="E" off="e" name="옥외" useYn="Y" bgImg="" />
+	<group key="4" on="H" off="h" name="사무실,공장" useYn="Y" bgImg="" />
+	<group key="5" on="O" off="o" name="공장,옥외" useYn="Y" bgImg="" />
+	<group key="6" on="Q" off="q" name="1" useYn="Y" bgImg="" />
+	<group key="7" on="X" off="x" name="2" useYn="Y" bgImg="" />
+	<group key="8" on="Y" off="y" name="3" useYn="Y" bgImg="" />
+</groupInfo>
+

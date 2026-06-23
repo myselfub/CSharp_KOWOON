@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<StartupObject>Kowoon.Program</StartupObject>
+		<Authors>김유빈(Kim Yu Bin)</Authors>
+		<Company>Kowoon</Company>
+		<Description />
+		<Copyright>김유빈(Kim Yu Bin)</Copyright>
+		<Product>Broadcast Management System</Product>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Data.SQLite" Version="1.0.114.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Mains\UCMainAdmin.cs" />
+		<Compile Update="MessageForms\UCDeleteConfirmation.cs">
+		  <SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="MessageForms\UCNotFindAudioPort.cs" />
+		<Compile Update="MessageForms\UCEndConfirmation.cs">
+		  <SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="PanelLefts\Reservations\FormReservation.cs">
+		  <SubType>Form</SubType>
+		</Compile>
+		<Compile Update="PanelLefts\Reservations\FormReservationControl.cs">
+		  <SubType>Form</SubType>
+		</Compile>
+		<Compile Update="PanelLefts\Reservations\UCReservationControlAdd.cs">
+		  <SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="PanelLefts\Reservations\UCReservationControlModify.cs">
+		  <SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="PanelLefts\Timers\UCTimerControlModify.cs">
+		  <SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="Properties\Settings.Designer.cs">
+		  <DesignTimeSharedInput>True</DesignTimeSharedInput>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>Settings.settings</DependentUpon>
+		</Compile>
+		<Compile Update="Utils\CircularButton.cs" />
+		<Compile Update="Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Update="Properties\Settings.settings">
+	    <Generator>SettingsSingleFileGenerator</Generator>
+	    <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+	  </None>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="PanelLefts\ProgramSettings\" />
+	  <Folder Include="PanelRights\" />
+	</ItemGroup>
+
+</Project>

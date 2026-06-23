@@ -1,0 +1,104 @@
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# =========================
+# Build results
+# =========================
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Project-specific build outputs
+Kowoon/bin/
+Kowoon/obj/
+
+# =========================
+# .NET / C# generated files
+# =========================
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.log
+*.tmp
+*.temp
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+.nuget/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# =========================
+# Local database / data files
+# =========================
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.mdf
+*.ldf
+
+# Project-specific local DB
+Kowoon/bin/Debug/netcoreapp3.1/resource/Kowoon.sqlite
+
+# =========================
+# Logs
+# =========================
+resource/log/
+*.log
+
+
+# =========================
+# Certificates / keys
+# =========================
+*.pem
+*.key
+*.pfx
+*.p12
+*.cer
+*.crt
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# CVS legacy metadata
+# =========================
+CVS/
+.cvsignore

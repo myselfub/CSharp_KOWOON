@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<programInfo>
+	<project projectName="컴퓨터 중앙 집중 방송" zone="ZO방" area="AR송" local="LO가" sizeH="800" sizeV="600" comPort1="COM8" comPort2="COM6" JoColorOn="128,255,0" JoColorOff="128,0,255" JoColorError="0,255,255" JoColorParent="0,0,255" JoColorFire="255,0,0" JoColorRemote="255,255,0" AuColorOn="128,255,0" AuColorPuls="0,128,64" AuColorOff="128,0,255" />
+	<user userName="관리자" type="admin" userId="admin" passwd="1" />
+	<user userName="관리자" type="admin" userId="4" passwd="1" />
+	<user userName="관리자" type="user" userId="1" passwd="1" />
+	<user userName="5" type="admin" userId="5" passwd="1" />
+	<user userName="사용자" type="user" userId="user" passwd="1" />
+</programInfo>
+

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<audioInfo>
+	<audio seq="1" name="MICROPHONE" useYn="Y" groupFrom="6" groupTo="8">
+		<button key="1" onoff="79" name="일반1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="일반2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="일반3" useYn="N" iconFile="" />
+		<button key="4" onoff="66" name="puls 1" useYn="Y" iconFile="" />
+		<button key="5" onoff="66" name="puls 2" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="연결버튼 1" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="연결버튼 2" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="연결버튼 3" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="2" name="CASSETTEDECK" useYn="Y" audioFile="" groupFrom="6" groupTo="8">
+		<button key="1" onoff="79" name="PLAY" useYn="Y" iconFile="C:\kowoon\WORK\KOWOON\resource\image\icon\a8.gif" />
+		<button key="2" onoff="79" name="STOP" useYn="Y" iconFile="" />
+		<button key="3" onoff="66" name="LEFT" useYn="Y" iconFile="C:\Users\user\Desktop\무11제-1.gif" />
+		<button key="4" onoff="66" name="RIHGT" useYn="Y" iconFile="" />
+		<button key="5" onoff="66" name="일시정지" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="빨리감기" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="빨리되감기" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="전원" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="3" name="씨디플레이어" useYn="Y" audioFile="" groupFrom="1" groupTo="8">
+		<button key="1" onoff="66" name="플레이" useYn="Y" iconFile="C:\kowoon\WORK\KOWOON\resource\image\icon\etc03.gif" />
+		<button key="2" onoff="66" name="스톱" useYn="Y" iconFile="C:\kowoon\WORK\KOWOON\resource\image\icon\etc07.gif" />
+		<button key="3" onoff="66" name="일시정지" useYn="Y" iconFile="C:\kowoon\WORK\KOWOON\resource\image\icon\etc11.gif" />
+		<button key="4" onoff="66" name="TRACUP" useYn="Y" iconFile="" />
+		<button key="5" onoff="66" name="TRACDOWN" useYn="Y" iconFile="" />
+		<button key="6" onoff="66" name="CD-UP" useYn="Y" iconFile="" />
+		<button key="7" onoff="66" name="CD-DOWN" useYn="Y" iconFile="" />
+		<button key="8" onoff="66" name="RECORDING" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="4" name="CHIMESIREN" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="CHIMEUP" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="챠임다운" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="사이렌경계" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="SIREN파상" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="사이렌STOP" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="5" name="장비전원" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="AMP" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="PREAMP" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="TUNER" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="CASSETTEDECK" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="C/D" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="AMP-2" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="CHARGER" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="AMP3" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="6" name="undefined 6" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="7" name="undefined 7" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="8" name="undefined 8" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="9" name="undefined 9" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="10" name="undefined 10" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="11" name="undefined 11" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="12" name="undefined 12" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="13" name="undefined 13" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="14" name="undefined 14" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="15" name="undefined 13" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="16" name="undefined 14" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="17" name="undefined 13" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="18" name="undefined 14" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="N" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="N" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="N" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="N" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="N" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="N" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="N" iconFile="" />
+	</audio>
+	<audio seq="19" name="undefined 19" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="20" name="undefined 20" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="21" name="undefined 21" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="22" name="undefined 22" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="23" name="undefined 23" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="24" name="undefined 24" useYn="Y" audioFile="" groupFrom="3" groupTo="6">
+		<button key="1" onoff="66" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="66" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="25" name="undefined 25" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="26" name="undefined 26" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="27" name="undefined 27" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="28" name="undefined 28" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="29" name="undefined 29" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="30" name="undefined 30" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="31" name="undefined 31" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="32" name="undefined 32" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="33" name="undefined 33" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="34" name="undefined 34" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="35" name="undefined 35" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="36" name="undefined 36" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="37" name="undefined 37" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="38" name="undefined 38" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="39" name="undefined 39" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="40" name="undefined 40" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="41" name="undefined 41" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="42" name="undefined 42" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="43" name="undefined 43" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="44" name="undefined 44" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="45" name="undefined 45" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="46" name="undefined 46" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="47" name="undefined 47" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="48" name="undefined 48" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="49" name="undefined 49" useYn="Y" audioFile="" groupFrom="8" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="79" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="79" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="79" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="79" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="79" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+	<audio seq="50" name="undefined 50" useYn="Y" audioFile="" groupFrom="4" groupTo="8">
+		<button key="1" onoff="79" name="BUTTON 1" useYn="Y" iconFile="" />
+		<button key="2" onoff="66" name="BUTTON 2" useYn="Y" iconFile="" />
+		<button key="3" onoff="66" name="BUTTON 3" useYn="Y" iconFile="" />
+		<button key="4" onoff="66" name="BUTTON 4" useYn="Y" iconFile="" />
+		<button key="5" onoff="66" name="BUTTON 5" useYn="Y" iconFile="" />
+		<button key="6" onoff="66" name="BUTTON 6" useYn="Y" iconFile="" />
+		<button key="7" onoff="79" name="BUTTON 7" useYn="Y" iconFile="" />
+		<button key="8" onoff="79" name="BUTTON 8" useYn="Y" iconFile="" />
+	</audio>
+</audioInfo>
+
